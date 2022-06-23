@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.contenedor__caroussel {
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.contenedor__cards {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    padding: 0px;
+}
+.centrar__footer {
+    text-align: center;
+}

@@ -17,3 +17,7 @@
 .centrar__footer {
     text-align: center;
 }
+.centrar__contenido {
+    align-items: center;
+    justify-content: center;
+}

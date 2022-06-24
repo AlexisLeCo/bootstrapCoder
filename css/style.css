@@ -2,6 +2,9 @@
     margin: 0px;
     padding: 0px;
 }
+.barra {
+    background-color: aquamarine;
+}
 .contenedor__caroussel {
     width: 100%;
     padding-top: 30px;
@@ -20,4 +23,11 @@
 .centrar__contenido {
     align-items: center;
     justify-content: center;
+}
+.footer {
+    background-color: rgb(52, 232, 24)
+}
+.enlaces {
+    text-decoration: none;
+    color: rgb(52, 232, 24)
 }
